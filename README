@@ -1,0 +1,36 @@
+Description
+===========
+
+NeoOverlay is my personal Gentoo overlay, like an alternative for packages
+support.
+
+
+Get the project
+===============
+
+NeoOverlay is mounted into a Git repository, you can get a clone
+with this url:
+
+     git://github.com/neoriddle/neooverlay.git
+
+
+ToDo List and Pendings
+======================
+
+Now there is no a pending features or wishlist.
+But you can make contributions by make ebuild to support independent
+packages.
+
+If you detect some error or have SUGGESTIONS or COMMENTS, please BE
+FREE TO CONTACT ME to notify me or if you was to make contributions
+too.
+
+
+Contact Info
+============
+
+Name	Israel Buitron
+Email	israel.buitron@gmail.com
+	ibuitron@computacion.cs.cinvestav.mx
+Webpage	http://github.com/neoriddle/neooverlay
+	http://computacion.cs.cinvestav.mx/~ibuitron
