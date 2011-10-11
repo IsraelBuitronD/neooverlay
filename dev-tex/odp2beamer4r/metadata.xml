@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+
+<pkgmetadata>
+  <herd>no-herd</herd>
+
+  <maintainer>
+    <email>israel.buitron@gmail.org</email>
+  </maintainer>
+  
+  <longdescription>
+    Odp2Beamer4R is a translator form OpenDocument Presentation file
+    into Beamer Latex Class Presentation scripts (using Treetop ruby
+    library).
+  </longdescription>
+
+</pkgmetadata>
